@@ -1,0 +1,6 @@
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe.config
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.exe
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\bin\Debug\ConsoleApplication66.pdb
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.csprojResolveAssemblyReference.cache
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.exe
+D:\New folder\gei\ConsoleApplication66\ConsoleApplication66\obj\Debug\ConsoleApplication66.pdb
