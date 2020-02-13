@@ -1,0 +1,5 @@
+D:\New folder\gei\16 = 10\16 = 10\bin\Debug\16 = 10.exe.config
+D:\New folder\gei\16 = 10\16 = 10\bin\Debug\16 = 10.exe
+D:\New folder\gei\16 = 10\16 = 10\bin\Debug\16 = 10.pdb
+D:\New folder\gei\16 = 10\16 = 10\obj\Debug\16 = 10.exe
+D:\New folder\gei\16 = 10\16 = 10\obj\Debug\16 = 10.pdb
